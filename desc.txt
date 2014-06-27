@@ -1,0 +1,10 @@
+
+音樂音量: 0 ~ 1
+<float name="UserConfig_bgmVolume" value="0.0" />
+音效音量: 0 ~ 1
+<float name="UserConfig_sfxVolume" value="0.0" />
+聊天泡泡: 0 = 關閉
+<int name="UserConfig_chatBubbleOn" value="0" />
+聊天通知: 1 = 開啟
+<int name="UserConfig_chatPushOn" value="0" />
+<int name="UserConfig_socialFeedOn" value="0" />
