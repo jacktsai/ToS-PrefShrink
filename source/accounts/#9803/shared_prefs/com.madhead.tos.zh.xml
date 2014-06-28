@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="GAME_UNIQUE_KEY">2376d94866f8e4a14226de28ebba75c5</string>
-    <int name="GAME_LOCAL_USER" value="727209547" />
-<float name="UserConfig_bgmVolume" value="0.0" />
-<float name="UserConfig_sfxVolume" value="0.0" />
-<int name="UserConfig_socialFeedOn" value="0" />
-<int name="UserConfig_chatBubbleOn" value="0" />
-</map>
